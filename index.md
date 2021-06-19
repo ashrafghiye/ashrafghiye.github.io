@@ -1,33 +1,12 @@
 ## Brief bio
 
-You can use the [editor on GitHub](https://github.com/ashrafghiye/ashrafghiye.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently a master student in applied mathematics and data science at l'Ecole Polytechnique. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am interested in a PhD position in the machine learning and statistical learning theory. My main interests are unsupervised learning, graphical models, signal and image processing. My current research internship is to use advanced deep learning models (GANs) to generate synthetic time series. 
 
 ## Contact & Online Presence
 
 - E-mail: ashraf.ghiye@polytechnique.edu
 - [Linkedin](https://www.linkedin.com/in/ashrafghiye/)
+- [Twitter](https://twitter.com/AshrafGhiye/)
 - [Kaggle](https://www.kaggle.com/ashrafghiye/)
-
-## Research Interests
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
