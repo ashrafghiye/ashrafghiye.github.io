@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Contact & Online Presence
 
-LinkedIn: [Linkedin](https://www.linkedin.com/in/ashrafghiye/)
+- E-mail: ashraf.ghiye@polytechnique.edu
+- [Linkedin](https://www.linkedin.com/in/ashrafghiye/)
+- [Kaggle](https://www.kaggle.com/ashrafghiye/)
 
 ## Research Interests
 
