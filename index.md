@@ -14,3 +14,9 @@ My current research internship is to use advanced deep learning models (GANs) to
 - [Linkedin](https://www.linkedin.com/in/ashrafghiye/)
 - [Twitter](https://twitter.com/AshrafGhiye/)
 - [Kaggle](https://www.kaggle.com/ashrafghiye/)
+
+## Education
+
+- **[Master 2]** in Applied Mathematics and Data Science from **Ecole Polytechnique (IPP).** *2020-2021*
+- **[Diplome d'ingenieur]** in Image Processing and Data Science from **Télécom ParisTech.** *2019-2020*
+- **[Masters in Engineering]** in Computer Science, Electrical Engineering and Information Theory from **Lebanese University, Faculty of Engineering.** *2016-2019*
