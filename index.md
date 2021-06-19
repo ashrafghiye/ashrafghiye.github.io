@@ -2,7 +2,7 @@
 
 ## Brief bio
 
-I am currently a master student in applied mathematics and data science at l'Ecole Polytechnique. 
+I am currently a master student in applied mathematics and data science at l'Ecole Polytechnique. I also hold a master in image processing and data science from Telecom Paris. 
 
 I am interested in a PhD position in the machine learning and statistical learning theory. My main interests are unsupervised learning, graphical models, signal/image processing and neuroscience. 
 
