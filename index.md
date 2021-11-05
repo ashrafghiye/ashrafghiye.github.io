@@ -4,7 +4,7 @@
 
 I am currently a master student in applied mathematics and data science at l'Ecole Polytechnique. I also hold a master in image processing and data science from Telecom Paris. 
 
-I am interested in a PhD position in machine learning and statistical learning theory. My main interests are unsupervised learning, graph theory, optimal transport, signal/image processing, computer vision and neuroscience. 
+I am interested in a PhD position in machine learning. My main interests are unsupervised learning, graph theory and network science, optimal transport, signal/image processing and computer vision. 
 
 My current research internship is to use advanced deep learning models (GANs) to generate synthetic time series. 
 
