@@ -14,10 +14,8 @@ In 2021 - and after 6 years of graduate eduction - I have graduated with a Maste
 
 ## News
 
-- **February 2023**: I am teaching labs on "Machine Learning for Time series" at **<a href="https://exed.polytechnique.edu/formations/data/data-sciences-intelligence-artificielle" target="_blank">École Polytechnique Executive Education</a>**.
+- **February 2023**: I am teaching labs on "Machine Learning for Time Series" at <a href="https://exed.polytechnique.edu/formations/data/data-sciences-intelligence-artificielle" target="_blank">École Polytechnique Executive Education</a>.
 - **June 2022**: I started my CIFRE Ph.D. at École Polytechnique & BNP Paribas CIB.
 - **October 2021**: I finished my Master's thesis in Generating Synthetic Financial Time Series with GANs.
 
 <br>
-
----
