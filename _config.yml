@@ -17,4 +17,5 @@ description: >
   </p>
 
 theme: jekyll-theme-minimal
+include: index.md
 # google_analytics: 
