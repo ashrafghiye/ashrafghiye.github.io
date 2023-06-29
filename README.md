@@ -1,2 +1,1 @@
-# ashrafghiye.github.io
-Academic homepage
+# Ashraf GHIYE's Academic Homepage
