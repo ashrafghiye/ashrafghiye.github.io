@@ -10,10 +10,6 @@ In 2021 - and after 6 years of graduate eduction - I have graduated with a Maste
 
 <br>
 
----
-
-
-
 
 ## News
 
