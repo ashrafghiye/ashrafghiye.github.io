@@ -21,6 +21,11 @@ In April 2021 - and after 6 years of higher eduction - I have graduated with a M
  - **June 2022**: I started my CIFRE Ph.D. at École Polytechnique & BNP Paribas CIB.
  - **October 2021**: I defended my Master's thesis on Generating Synthetic Financial Time Series with GANs.
 
+<br>
+
+---
+
+
 ## Publications
 
 #### 2023
