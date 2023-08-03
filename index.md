@@ -16,6 +16,16 @@ In April 2021 - and after 6 years of higher eduction - I have graduated with a M
 
 ## News
 
+-  **June 2023**: My first Ph.D. paper got accepted and will be presented at <a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys '23</a> in Singapore.
 - **February 2023**: I am teaching labs on "Machine Learning for Time Series" at <a href="https://exed.polytechnique.edu/formations/data/data-sciences-intelligence-artificielle" target="_blank">École Polytechnique Executive Education</a>.
  - **June 2022**: I started my CIFRE Ph.D. at École Polytechnique & BNP Paribas CIB.
  - **October 2021**: I defended my Master's thesis on Generating Synthetic Financial Time Series with GANs.
+
+## Publications
+
+#### 2023
+
+- **Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation**<br>
+<ins>A. Ghiye</ins>, B. Barreau, L. Carlier, M. Vazirgiannis <br>
+17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
+[<a href="https://arxiv.org/abs/2308.01208" target="_blank">arXiv</a>]
