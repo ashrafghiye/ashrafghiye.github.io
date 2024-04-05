@@ -33,4 +33,4 @@ In April 2021 - and after 6 years of higher eduction - I have graduated with a M
 - **Adaptive Collaborative Filtering with Personalized Time Decay Functions for Financial Product Recommendation**<br>
 <ins>A. Ghiye</ins>, B. Barreau, L. Carlier, M. Vazirgiannis <br>
 17th ACM Conference on Recommender Systems (**RecSys 2023**)  <br>
-[<a href="https://arxiv.org/abs/2308.01208" target="_blank">arXiv</a>]
+[<a href="https://dl.acm.org/doi/10.1145/3604915.3608832" target="_blank">DOI</a>] [<a href="https://arxiv.org/abs/2308.01208" target="_blank">arXiv</a>]
