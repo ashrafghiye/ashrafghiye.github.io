@@ -16,6 +16,7 @@ In April 2021 - and after 6 years of higher eduction - I have graduated with a M
 
 ## News
 
+- **September 2024**: My second paper got accepted at <a href="https://ai-finance.org/" target="_blank">ICAIF '24</a> and will be presented in New York!
 -  **June 2023**: My first Ph.D. paper got accepted and will be presented at <a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys '23</a> in Singapore.
 - **February 2023**: I am teaching labs on "Machine Learning for Time Series" at <a href="https://exed.polytechnique.edu/formations/data/data-sciences-intelligence-artificielle" target="_blank">École Polytechnique Executive Education</a>.
  - **June 2022**: I started my CIFRE Ph.D. at École Polytechnique & BNP Paribas CIB.
@@ -27,6 +28,11 @@ In April 2021 - and after 6 years of higher eduction - I have graduated with a M
 
 
 ## Publications
+#### 2024
+
+- **Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**<br>
+<ins>A. Ghiye</ins>, B. Barreau, L. Carlier, M. Vazirgiannis <br>
+5th ACM Conference on Artificial Intelligence for Finance (**ICAIF 2024**)  <br>
 
 #### 2023
 
