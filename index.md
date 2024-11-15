@@ -33,6 +33,7 @@ In April 2021 - and after 6 years of higher eduction - I have graduated with a M
 - **Rolling Forward: Enhancing LightGCN with Causal Graph Convolution for Credit Bond Recommendation**<br>
 <ins>A. Ghiye</ins>, B. Barreau, L. Carlier, M. Vazirgiannis <br>
 5th ACM Conference on Artificial Intelligence for Finance (**ICAIF 2024**)  <br>
+[<a href="https://doi.org/10.1145/3677052.3698683" target="_blank">DOI</a>]
 
 #### 2023
 
