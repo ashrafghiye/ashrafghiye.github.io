@@ -16,7 +16,7 @@ In April 2021, after 6 years of higher eduction, I have graduated with a Master'
 
 ## News
 
-- **June 2025**: Our latest paper has been accepted in the <a href="https://www.pm-research.com/content/iijjfds/" target="_blank">Journal of Financial Data Science </a> for the Summer Issue! 
+- **June 2025**: Our recent paper has been accepted in the <a href="https://www.pm-research.com/content/iijjfds/" target="_blank">Journal of Financial Data Science </a> for the Summer Issue! 
 - **September 2024**: My second paper got accepted at <a href="https://ai-finance.org/" target="_blank">ICAIF '24</a> and will be presented in New York!
 -  **June 2023**: My first Ph.D. paper got accepted and will be presented at <a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys '23</a> in Singapore.
 - **February 2023**: I am teaching labs on "Machine Learning for Time Series" at <a href="https://exed.polytechnique.edu/formations/data/data-sciences-intelligence-artificielle" target="_blank">École Polytechnique Executive Education</a>.
