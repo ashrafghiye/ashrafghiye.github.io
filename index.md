@@ -1,7 +1,7 @@
 ## Bio
 
 
-I obtained my Ph.D. in Mathematics and Computer Science from the Data Science and Mining Team at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, under the supervision of Prof. Michalis Vazirgiannis. In paralle, I work at <a href="https://globalmarkets.cib.bnpparibas" target="_blank"><b>BNP Paribas CIB</b></a>. Based in Paris, I am part of the Data & AI Lab within the Quantitative Resarch team of Global Markets, where I conduct fundamental and applied research on graph machine learning for financial markets.<br><br>
+I obtained my Ph.D. in Mathematics and Computer Science from the Data Science and Mining Team at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, under the supervision of Prof. Michalis Vazirgiannis. In parallel, I work at <a href="https://globalmarkets.cib.bnpparibas" target="_blank"><b>BNP Paribas CIB</b></a>. Based in Paris, I am part of the Data & AI Lab within the Quantitative Resarch team of Global Markets, where I conduct fundamental and applied research on graph machine learning for financial markets.<br><br>
 
 I also hold a Master's degree in Applied Mathematics from <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, a Master of Engineering in Image Processing and Data Science from <a href="https://www.telecom-paris.fr" target="_blank"><b>Télécom Paris</b></a>, and a Master of Engineering in Telecommunication and Computer Science from <a href="http://www.ulfg.ul.edu.lb" target="_blank"><b>Lebanese University</b></a>.
 
