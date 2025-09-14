@@ -1,11 +1,11 @@
 ## Bio
 
 
-I am a Ph.D. student at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>. I work in parallel at <a href="https://globalmarkets.cib.bnpparibas" target="_blank"><b>BNP Paribas CIB</b></a>. Based in Paris, I am part of the Data & AI Lab within the quantitative resarch team of global markets, where I conduct fundamental and applied research on graph machine learning for financial markets.<br><br>
+I obtained my Ph.D. in Mathematics and Computer Science from the Data Science and Mining Team at <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, under the supervision of Prof. Michalis Vazirgiannis. In paralle, I work at <a href="https://globalmarkets.cib.bnpparibas" target="_blank"><b>BNP Paribas CIB</b></a>. Based in Paris, I am part of the Data & AI Lab within the Quantitative Resarch team of Global Markets, where I conduct fundamental and applied research on graph machine learning for financial markets.<br><br>
 
-I am mainly interested in graph representation learning and graph signal processing. Curently, my work invovles modelling the dynamic network of user-item interactions for various downstream tasks, such as market prediction and product recommendations. <br><br>
+I also hold a Master's degree in Applied Mathematics from <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, a Master of Engineering in Image Processing and Data Science from <a href="https://www.telecom-paris.fr" target="_blank"><b>Télécom Paris</b></a>, and a Master of Engineering in Telecommunication and Computer Science from <a href="http://www.ulfg.ul.edu.lb" target="_blank"><b>Lebanese University</b></a>.
 
-In April 2021, after 6 years of higher eduction, I have graduated with a Master's degree in Applied Mathematics from <a href="https://www.polytechnique.edu/en" target="_blank"><b>École Polytechnique</b></a>, a Master of Engineering in Image Processing and Data Science from <a href="https://www.telecom-paris.fr" target="_blank"><b>Télécom Paris</b></a>, and a Master of Engineering in Telecommunication and Computer Science from <a href="http://www.ulfg.ul.edu.lb" target="_blank"><b>Lebanese University</b></a>.
+I am mainly interested in graph representation learning and signal processing. Currently, my work involves modelling the dynamic network of user--item interactions for various downstream tasks, such as market prediction and product recommendation. <br><br>
 
 <br>
 
@@ -16,6 +16,7 @@ In April 2021, after 6 years of higher eduction, I have graduated with a Master'
 
 ## News
 
+- **June 2025**: I have successfully defended my PhD dissertation, entitled: Contributions to Graph Representation Learning and Applications in Financial Markets.
 - **June 2025**: Our recent paper has been accepted in the <a href="https://www.pm-research.com/content/iijjfds/" target="_blank">Journal of Financial Data Science </a> for the Summer Issue! 
 - **September 2024**: My second paper got accepted at <a href="https://ai-finance.org/" target="_blank">ICAIF '24</a> and will be presented in New York!
 -  **June 2023**: My first Ph.D. paper got accepted and will be presented at <a href="https://recsys.acm.org/recsys23/" target="_blank">RecSys '23</a> in Singapore.
@@ -31,6 +32,10 @@ In April 2021, after 6 years of higher eduction, I have graduated with a Master'
 ## Publications
 
 #### 2025
+
+- **Contributions to Graph Representation Learning and Applications in Financial Markets**.<br>
+<ins>Ashraf Ghiye</ins>
+[<a href="https://theses.hal.science/tel-05199000" target="_blank">DOI</a>]
 
 - **Graph-Based Factor Model for Interpretable Credit Spread Decomposition**<br>
 <ins>A. Ghiye</ins>, B. Barreau, L. Carlier, M. Vazirgiannis <br>
