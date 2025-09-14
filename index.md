@@ -34,7 +34,7 @@ I am mainly interested in graph representation learning and signal processing. C
 #### 2025
 
 - **Contributions to Graph Representation Learning and Applications in Financial Markets**.<br>
-<ins>Ashraf Ghiye</ins> <br>
+Ashraf Ghiye <br>
 [<a href="https://theses.hal.science/tel-05199000" target="_blank">DOI</a>]
 
 - **Graph-Based Factor Model for Interpretable Credit Spread Decomposition**<br>
